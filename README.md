@@ -1,7 +1,7 @@
 # Multi Style Transfer
 使用pytorch对论文《Multi-style Generative Network for Real-time Transfer》的复现
 
-分别使用COCO和[WikiArt](https://www.kaggle.com/c/painter-by-numbers/data)
+数据集分别使用COCO和[WikiArt](https://www.kaggle.com/c/painter-by-numbers/data)
 
 
 # Below picture shows the training-process on tensorboard:
